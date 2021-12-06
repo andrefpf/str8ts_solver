@@ -1,4 +1,6 @@
 -- STR8TS SOLVER
+-- Alunos: André Filipe da Silva Fernandes
+--         Hans Buss Heideman
 
 -- Funções úteis para trabalhar com listas 
 
