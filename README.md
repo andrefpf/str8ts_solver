@@ -1,9 +1,9 @@
 # STRAIGTS SOLVER
 
 ## ALUNOS
-  André Filipe da Silva Fernandes
+  André Filipe da Silva Fernandes - 19100515
   
-  Hans Buss Heideman
+  Hans Buss Heidemann - 19100528
 
 
 ## O PROBLEMA
@@ -92,5 +92,10 @@ $main
 ```
 
 ## Organização do grupo
+ Nós organizamos de forma que os ambos os membros do grupo começaram tentando realizar uma implementação em Python do desáfio, após isso partimos para o Haskell. Quem implementou a maior parte do algoritmo em Haskell foi o André, mas todos os membros estavam sempre acompanhando e entendendo o desenvolvimento. Uma parte do trabalho fizemos em serviços de compartilhamento de tela para debatermos juntos. O relatório foi realizado por ambos os membros do grupo.
+
 
 ## Dificuldades encontradas 
+Em relação ao entendimento do algoritmo não tivemos muitas dificuldades, nosso maior desafio foi estar saindo do dominio dos paradigmas que não estamos acostumados e estar realizando um projeto mais complexo em uma linguagem que não estamos acostumados. Tivemos que pensar de uma forma mais criativa para realizarmos o trabalho e sairmos da notação que estamos acostumados, como ```for, while e if```. 
+
+Quando começamos a ter um melhor entendimento da linguagem e do paradigma as dificuldades começaram a não nós atrapalhar mais.
