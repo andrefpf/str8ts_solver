@@ -5,6 +5,7 @@
   
   Hans Buss Heidemann - 19100528
 
+Link youtube: https://youtu.be/N-BfOJ_hu28
 
 ## O PROBLEMA
   Escolhemos o puzzle Straights para implementar uma solução. O jogo consiste em um tabuleiro quadrado com casas brancas e pretas. Algumas dessas casas possuem números iniciais, e nosso objetivo é preencher o restante das casas brancas de forma que nenhuma linha
@@ -31,6 +32,7 @@
   Por último tem o trecho de print, com funções que retornam uma string pronta para mostrar mostrar o resultado na tela, como é o caso de "show_cell", "show_board" e "show_solution". 
 
 
+I
 ## COMO UTILIZAR
   Para definir o tabuleiro desejado o usuário deve substituir, dentro do código, a variavel size, com o tamanho do tabuleiro e a variavel board, com os elementos em sequência. 
 
